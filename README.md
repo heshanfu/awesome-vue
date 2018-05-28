@@ -752,6 +752,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Spektrum](https://spektrummedia.com/) - The website of Spektrum Media Agency
   - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
   - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
+  - [Vue.js Examples](https://vuejsexamples.com/) - A nice collection of often useful examples done in Vue.js
+  
 
 ### Interactive Experiences
 
